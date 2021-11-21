@@ -11,7 +11,11 @@ step4: Add remote
 step5: Push code
 - git push orgin 
 
+
+
 => làm xong task
+
+
 
 Các câu lệnh git cơ bản
 - git branch -d tên_nhánh ->Xóa 1 nhánh
